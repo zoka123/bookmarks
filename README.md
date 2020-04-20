@@ -1,0 +1,5 @@
+- https://github.com/awesome-selfhosted/awesome-selfhosted
+- https://www.mathjax.org/
+- https://markmap.js.org/
+- http://www.gravizo.com/
+- http://demo.bpmn.io/
